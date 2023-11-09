@@ -1,0 +1,4 @@
+apiKey: adf1f2d7
+movieId1: 48727053
+movieId1: 8691812a
+url: http://www.omdbapi.com/
